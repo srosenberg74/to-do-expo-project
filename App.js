@@ -60,7 +60,7 @@ export default function App() {
         fexShrink: "4",
         borderColor: item.myColor,
         alignItems: "center",
-        minWidth: "80vw",
+        width: "80vw",
         minHeight: "10vh",
         maxWidth: 500,
         borderWidth: "2px",
